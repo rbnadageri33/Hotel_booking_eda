@@ -21,7 +21,6 @@ The dataset contains data from two different hotels. One Resort hotel and one Ci
       
       
  # Below are the some plots we saw
-![20230512_215201](https://github.com/rbnadageri33/Hotel_booking_eda/assets/98470709/51563f77-bc2e-4b78-a01e-1a46464bffee)
 ![barchart1](https://github.com/rbnadageri33/Hotel_booking_eda/assets/98470709/941c61ee-b475-491e-bbd7-cba6e883008d)
 ![bar_plot](https://github.com/rbnadageri33/Hotel_booking_eda/assets/98470709/ee0582c7-28b0-4967-b05d-b40b4687a9f3)
 ![box_plot](https://github.com/rbnadageri33/Hotel_booking_eda/assets/98470709/5b50f50f-2590-4467-a167-082b34f26006)
